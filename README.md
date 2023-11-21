@@ -1,6 +1,9 @@
 ## About
+Hi there 👋, I'm an experienced frontend developer, worked with different projects from landing pages to payment systems and big corporate portals.
 
-Hi there 👋, I am a Frontend developer with over 5 years of experience working on large projects and big brands. I'm always open to new opportunities. So just write to me if you want to order the development of your project or simply talk :)
+My main stack: Nuxt 2, 3, vue 2, 3 (vuex/pinia), Node.js, tailwind, css, scss, TypeScript, Directus, JQuery, pixel perfect, responsive, e2e and unit tests (vitest, jest, Playwright, Cypress), storybook, Firebase (realtime db, functions, authentication), Integration and developing RESTful API, OOP/functional style, grammy, telegram bots
+
+So just write to me if you want to order the development of your project or simply talk :)
 
 ## Main Stack:
 
