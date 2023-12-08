@@ -10,7 +10,7 @@
 #### Frontend:
 ![Static Badge](https://img.shields.io/badge/Nuxt%202%2F3%20(SPA%2C%20SSR%2C%20STATIC)-1c1e21?logo=nuxt.js)
 ![Static Badge](https://img.shields.io/badge/Vue%202%2F3%20(vuex%2Fpinia)-1c1e21?logo=vue.js)
-![Static Badge](https://img.shields.io/badge/Tailwind-%231a1a1a?logo=TailwindCSS)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%231a1a1a?logo=TailwindCSS)
 ![Static Badge](https://img.shields.io/badge/TS-%231a1a1a?logo=Typescript)
 ![Static Badge](https://img.shields.io/badge/Pixel%20perfect%2C%20Adaptive-1c1e21?logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-1c1e21?logo=css3)
@@ -45,11 +45,11 @@
 ![Static Badge](https://img.shields.io/badge/Playwright-%231a1a1a?logo=Playwright)
 ![Static Badge](https://img.shields.io/badge/Cypress-%231a1a1a?logo=Cypress)
 ![Static Badge](https://img.shields.io/badge/Ava-%231a1a1a?logo=Avajs)
-![Static Badge](https://img.shields.io/badge/storybook-%231a1a1a?logo=storybook)
+![Static Badge](https://img.shields.io/badge/Storybook-%231a1a1a?logo=storybook)
 
 #### Platforms:
 ![Static Badge](https://img.shields.io/badge/Firebase-%231a1a1a?logo=Firebase)
-![Static Badge](https://img.shields.io/badge/AWS-%231a1a1a?logo=aws)
+![Static Badge](https://img.shields.io/badge/AWS-1c1e21?logo=amazonaws)
 
 #### Cms
 ![Static Badge](https://img.shields.io/badge/Directus-%231a1a1a?logo=Directus)
