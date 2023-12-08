@@ -7,6 +7,7 @@
 
 ## Main Stack:
 
+#### Frontend:
 ![Static Badge](https://img.shields.io/badge/Nuxt%202%2F3%20(SPA%2C%20SSR%2C%20STATIC)-1c1e21?logo=nuxt.js)
 ![Static Badge](https://img.shields.io/badge/Vue%202%2F3%20(vuex%2Fpinia)-1c1e21?logo=vue.js)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%231a1a1a?logo=TailwindCSS)
