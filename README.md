@@ -1,5 +1,5 @@
 ## About
-👨‍💻 Hello, My main specialization is frontend (more than 5 years of experience). But I also work as a full node.js developer if necessary.
+👨‍💻 Hello, My main specialization is frontend (more than 5 years of experience). But I also work as a full-stack developer with node.js if necessary.
 
 💼 During my professional career, I managed to work in a digital agency, a fintech company and as an independent freelance developer. I have experience working in a team environment, experience managing small teams and an interest in the commercial success of the product.
 
