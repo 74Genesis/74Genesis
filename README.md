@@ -53,6 +53,7 @@
 
 #### Cms
 ![Static Badge](https://img.shields.io/badge/Directus-%231a1a1a?logo=Directus)
+![Static Badge](https://img.shields.io/badge/Strapi-%231a1a1a?logo=Strapi)
 
 ## Contact
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/igorishere)
